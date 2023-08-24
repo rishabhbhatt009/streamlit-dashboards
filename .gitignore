@@ -1,0 +1,6 @@
+# virtual environment
+.venv
+.vscode
+
+# wsl files 
+*:Zone.Identifier
